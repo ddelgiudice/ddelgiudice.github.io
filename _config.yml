@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Dario's Website
+title: Dr. Del Giudice
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -9,12 +9,12 @@ owner:
   name: Dario Del Giudice
   avatar: IMG_2882_cntrst.jpg
   bio: "Postdoctoral Researcher at NC State University"
-  email: #emailaddress
+  email: ddelgiu@ncsu.edu 
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
   github: #username
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  orcid: 0000-0002-6375-8527 
   researchgate: #username
   mendeley: #username
   google:
