@@ -2,11 +2,11 @@
 - title: Home
   url: /
 
-- title: Presentations
-  url: /presentations/
+# title: Presentations
+# url: /presentations/
 
 - title: About Me
   url: /me/
 
-- title: Research
-  url: /research/
+# - title: Research
+#   url: /research/
