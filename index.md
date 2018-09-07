@@ -3,12 +3,9 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Computer Modeling, Water Resources, Data Science
 
-## Current Interests and Projects:
-
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+Dario Del Giudice is conducting his research at [NCSU](https://www.ccee.ncsu.edu/research/ewc/), seeking to understand and predict the impacts of climate variability and human pressures on the quantity and quality of aquatic ecosystems. In his research at the interface of
+catchment hydrology and surface water pollution he leverages process-based models, stochastic methods for uncertainty
+quantification, and computational statistics.\
+Dr. Del Giudice earned a PhD degree from the [Swiss Federal Institute of Technology in Zurich](https://www.ethz.ch/en.html), an MSc from the [École polytechnique fédérale de Lausanne](https://www.epfl.ch/index.en.html), and a BSc from the [University of Bologna](https://www.unibo.it/en/homepage). After moving from [Stanford](https://dge.carnegiescience.edu/), he is currently focusing on predicting how riverine nutrient loads and hydrometeorological forcings foster eutrophication and dead zones in critical systems such as the Gulf of Mexico and the Great Lakes.
