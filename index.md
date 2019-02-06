@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 title: "Computer Modeling, Water Resources, Data Science"
 ---
-
+<audio id="player" src="surname_eng.wav"></audio>
 Dario Del Giudice is a scientist and engineer working at [NCSU](https://www.ccee.ncsu.edu/research/ewc/). He seeks to understand and predict the impacts of climate variability and human pressures on the quantity and quality of aquatic ecosystems. In his research at the interface of catchment hydrology and surface water pollution he leverages process-based models, stochastic methods for uncertainty
 quantification, and computational statistics.
 
