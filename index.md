@@ -1,7 +1,7 @@
 ---
 layout: page
 excerpt: "About Me..."
-title: "Computer Modeling, Water Resources, Data Science"
+title: "Computer Modeling, Systems Analysis, Data Science"
 ---
 
 Dario Del Giudice <a href="#/" onclick="document.getElementById('player').play()"> <i class="fa fa-volume-up" aria-hidden="true"></i></a> is a scientist and engineer leveraging Bayesian statistics, physics-based models, and machine learning for improved descriptive and predictive analytics.
