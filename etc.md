@@ -10,7 +10,7 @@ Examples of:
 * Certified skills: [Prediction & Clustering](https://www.coursera.org/account/accomplishments/specialization/certificate/5Q9AC2TN22S4), [Big Data](https://www.datacamp.com/statement-of-accomplishment/track/fd49fd733f7d8b13cd562548898ed57703237629), [Machine Learning with Python](https://www.datacamp.com/statement-of-accomplishment/track/5be8e14a980ee59673d740c9feaaf70700c3653c) & [R](https://www.datacamp.com/statement-of-accomplishment/track/fcdb186a6fd575fcd3a2bccbb59949bbc51b859a), [Programming](https://www.datacamp.com/statement-of-accomplishment/track/b23ca4283d6db64a71dd0e63c785a74307d2a6f0).
 
 
-* Developed code: [Bayesian Computation](https://drive.google.com/drive/folders/1tUhfaw8zdCW8TMP-pETLSaLZZ-h_73lh) 
+* Developed code: [Bayesian Computation](https://github.com/ddelgiudice/BayesianInference_HiddenMarkov) 
 
 
 * Invited talk: [University of Florida](https://mediasite.video.ufl.edu/Mediasite/Play/159fbc7719a4430d9eb9c28f330c5a151d) 
