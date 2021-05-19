@@ -11,5 +11,6 @@ You can register using the affiliate links below and we both should get a bonus:
 * [EstateGuru](https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU90218)
 * [PeerBerry](https://peerberry.com/ref/Q13EWT/)
 * [crypto.com](https://crypto.com/app/wdj2bfkws2)
+* [Coinloan](https://coinloan.io/earn-interest-on-crypto/?r=OWWERH)
 * [Groundfloor](https://www.groundfloor.us/new_referral/l8dcb1)
 
