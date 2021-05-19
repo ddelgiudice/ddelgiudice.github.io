@@ -6,7 +6,7 @@ title: ""
 Examples of:
 
 
-* Invited podcast: [Data Standard](https://www.buzzsprout.com/1210664) [_coming soon_]
+* Invited podcast: [Data Standard](https://datastandard.io/podcast/the-data-standard-audio-experience-with-dario-del-giudice/)
 
 * Invited talk: [University of Florida](https://mediasite.video.ufl.edu/Mediasite/Play/159fbc7719a4430d9eb9c28f330c5a151d) 
 
