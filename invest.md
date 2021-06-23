@@ -4,7 +4,7 @@ title: ""
 ---
 
 Here are some investments I'm familiar with. 
-You can register using the affiliate links below and we both should get a bonus:
+You can register using the affiliate links below (or the referral code at the end of each URL) and we both should get a bonus:
 
 
 * [Celsius](https://celsiusnetwork.app.link/124168bd43)
