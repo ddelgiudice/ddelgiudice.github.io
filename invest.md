@@ -4,11 +4,12 @@ title: ""
 ---
 
 Here are some investments I'm familiar with. 
-You can register using the affiliate links below (or the referral code at the end of each URL) and we both should get a bonus:
+You can register using the affiliate links below (or the referral code within each URL) and we both should get a bonus:
 
 
 * [Celsius](https://celsiusnetwork.app.link/124168bd43)
 * [EstateGuru](https://estateguru.co/en/investor-referral/?switch=en&userPromotionCode=EGU90218)
+* [Bondster](https://www.bondster.com/en/ref2/1000012661?utm_medium=referral&utm_source=website)
 * [PeerBerry](https://peerberry.com/ref/Q13EWT/)
 * [crypto.com](https://crypto.com/app/wdj2bfkws2)
 * [Coinloan](https://coinloan.io/earn-interest-on-crypto/?r=OWWERH)
